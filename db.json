@@ -1,23 +1,23 @@
 {
 	"open": [{
 		
-"images" : "https://f.top4top.io/p_2499iihq41.jpg",		
-"link" : ["https://jsonlint.com/","https://jsonlint.com/","https://jsonlint.com/"]
+"link" : "تصفح الموقع من هنا Google.com",		
+"web" : "https://www.google.com/"
 },
 {
 	
-"images" : "https://f.top4top.io/p_2499iihq41.jpg",			
-"link" : ["","",""]
+"link" : "تصفح الموقع هنا facebook.com",			
+"web" : "https://www.facebook.com/"
 },
 {
 	
-"images" : "https://f.top4top.io/p_2499iihq41.jpg",			
-"link" : ["","",""]
+"link" : "تصفح من هنا StackoverFlow",			
+"web" : "https://stackoverflow.com/"
 },
 {
 	
-"imageurl" : "https://f.top4top.io/p_2499iihq41.jpg",			
-"link" : ["","",""]
+"link" : "تصفح من هنا gameforge",			
+"web" : "https://gameforge.com/ar-AE/play/metin2"
 
 }
 ]
